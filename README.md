@@ -11,6 +11,7 @@ $ apt update && apt upgrade
 $ pkg update 
 $ git clone https://github.com/AbilSeno/WaUnlimited
 $ cd WaUnlimited
+$ pip install requests
 $ python2 sb.py
 ```
 # Warning!!!
